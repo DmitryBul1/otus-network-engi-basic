@@ -33,7 +33,10 @@
 - файл образа системы называется **"flash:c2960-lanbasek9-mz.150-2.SE4.bin"**;
 - базовый MAC-адрес коммутатора **00:17:59:A7:51:80**.
 
+Изучаем свойства по умолчанию интерфейса FastEthernet, который используется компьютером PC-A.
+![image](https://user-images.githubusercontent.com/89464074/130945404-f484f6b9-ddf7-4b27-bbfc-2cd8aa5201f8.png)
 
+Интерфейс включен _(FastEthernet0/6 is up, line protocol is up (connected))_
 
 
 
