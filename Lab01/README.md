@@ -82,6 +82,12 @@
 
 ![image](https://user-images.githubusercontent.com/89464074/130954382-61b18951-e2b8-4027-a657-5ebbca448ebf.png) ![image](https://user-images.githubusercontent.com/89464074/130954609-8350a4dc-1f35-4219-8ec3-da89f4b25910.png)
 
+Проанализируем интерфейс VLAN1:
+
+![image](https://user-images.githubusercontent.com/89464074/130955465-2e6b1ebb-43a6-4668-adb2-4b618d2c3107.png)
+
+- ширина полосы пропускания **100000 Kbit**
+- интерфейс VLAN1 и канальный протокол находятся в активном состоянии: ***Vlan1 is up, line protocol is up***
 
 
 
