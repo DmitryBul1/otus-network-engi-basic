@@ -94,6 +94,10 @@
 
 ![image](https://user-images.githubusercontent.com/89464074/130955798-c35d5c61-7e05-4dc9-b720-e1d43d8a8aa1.png)
 
+Проверим удаленное управление коммутатором через Telnet:
+
+![image](https://user-images.githubusercontent.com/89464074/130956773-e9c104cf-c9cd-475a-9d13-b0c785085785.png)
+
 
 
 
