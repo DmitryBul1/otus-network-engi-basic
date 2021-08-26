@@ -24,7 +24,14 @@
 
 ![image](https://user-images.githubusercontent.com/89464074/130943036-92f8262a-9bc5-47ec-ac6f-c1d7a2d5ad80.png) ![image](https://user-images.githubusercontent.com/89464074/130943181-9a95c599-4be2-4143-8260-88dcd6955f99.png)
 
+Интерфейс FE0/6 стал активным.
+Изучаем сведения о версии Cisco IOS на коммутаторе при помощи команды **show version**:
 
+![image](https://user-images.githubusercontent.com/89464074/130944479-d11958ba-31aa-463e-abbe-50b824737509.png)
+
+- коммутатор работает под управлением ОС версии **15.0(2)SE4**;
+- файл образа системы называется **"flash:c2960-lanbasek9-mz.150-2.SE4.bin"**;
+- базовый MAC-адрес коммутатора **00:17:59:A7:51:80**.
 
 
 
