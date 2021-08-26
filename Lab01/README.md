@@ -5,7 +5,7 @@
 
 Производим первоначальное подключение к коммутатору через консоль, так как на коммутаторе не настроен VLAN и нет IP адреса для удаленного подключения по Telnet или Secure Shell.
 
-![image](https://user-images.githubusercontent.com/89464074/130936390-29c9cf32-752c-49db-9db9-725252886d87.png) ![image](https://user-images.githubusercontent.com/89464074/130936497-b3da0f56-bf36-4db5-b9f8-295a383d2580.png)
+![image](https://user-images.githubusercontent.com/89464074/130936390-29c9cf32-752c-49db-9db9-725252886d87.png) ![image](https://user-images.githubusercontent.com/89464074/130936497-b3da0f56-bf36-4db5-b9f8-295a383d2580.png) Анализируя файл запущенной конфигурации, можно отметить: - 1. - 2. -3.
 
 
 ### Часть 2. Создание сети и настройка основных параметров устройства
