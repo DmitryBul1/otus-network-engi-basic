@@ -20,6 +20,15 @@
 
 Интерфейс VLAN отключен, можно посмотреть MAC-адрес: 0001.c934.44bc.
 
+Подключаем Ethernet кабель компьютера к порту 6 коммутатора.
+![image](https://user-images.githubusercontent.com/89464074/130943036-92f8262a-9bc5-47ec-ac6f-c1d7a2d5ad80.png) ![image](https://user-images.githubusercontent.com/89464074/130943181-9a95c599-4be2-4143-8260-88dcd6955f99.png)
+
+
+
+
+
+
+
 
 
 ### Часть 2. Создание сети и настройка основных параметров устройства
