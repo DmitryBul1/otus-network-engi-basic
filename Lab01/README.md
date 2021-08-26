@@ -80,7 +80,8 @@
 ### Часть 3. Проверка сетевых подключений
 Используя консольное подключение на компьютере PC-A, отобразим и проверим конфигурацию коммутатора:
 
-![image](https://user-images.githubusercontent.com/89464074/130954382-61b18951-e2b8-4027-a657-5ebbca448ebf.png) ![image](https://user-images.githubusercontent.com/89464074/130954537-1b456fb3-3690-4eda-af70-127b665a4722.png)
+![image](https://user-images.githubusercontent.com/89464074/130954382-61b18951-e2b8-4027-a657-5ebbca448ebf.png) ![image](https://user-images.githubusercontent.com/89464074/130954609-8350a4dc-1f35-4219-8ec3-da89f4b25910.png)
+
 
 
 
