@@ -36,7 +36,10 @@
 Изучаем свойства по умолчанию интерфейса FastEthernet, который используется компьютером PC-A.
 ![image](https://user-images.githubusercontent.com/89464074/130945404-f484f6b9-ddf7-4b27-bbfc-2cd8aa5201f8.png)
 
-Интерфейс включен _(FastEthernet0/6 is up, line protocol is up (connected))_
+- Интерфейс включен _(FastEthernet0/6 is up, line protocol is up (connected))_;
+- Включение интерфейса осуществляется командой **no shutdown** в режиме конфигурации интерфейса;
+- рассматриваемый интерфейс имеет MAC-адрес **00d0.581d.aa06**
+- настройки скорости и дуплекса, заданные в интерфесе, **100Mb/s и Full-duplex** соответсвенно. 
 
 
 
