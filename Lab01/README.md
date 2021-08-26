@@ -58,12 +58,15 @@
 
 ### Часть 2. Создание сети и настройка основных параметров устройства
 Настроим базовые параметры коммутатора:
+
 ![image](https://user-images.githubusercontent.com/89464074/130952047-3f1bdb15-ba6b-4824-818a-c0f6bc6a7a39.png)
 
 Назначим IP-адрес виртуальному интерфейсу для удаленного управления коммутатором:
+
 ![image](https://user-images.githubusercontent.com/89464074/130952617-4c35f2a6-c8c0-4f0a-ba31-27e4216696af.png)
 
 Ограничим доступ через порт консоли:
+
 ![image](https://user-images.githubusercontent.com/89464074/130952946-4a2c7fbc-1fe2-43e5-a488-63524b238563.png)
 
 
