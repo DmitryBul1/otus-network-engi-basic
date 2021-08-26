@@ -14,7 +14,8 @@
 В памяти NVRAM нет сохраненной конфигурации, о чем говорит результат выполнения команды **show startup-config**
 ![image](https://user-images.githubusercontent.com/89464074/130937844-e75fa5cd-2724-44cb-8c06-023d60f2660e.png)
 
-Рассмотрим виртуальный интерфейс для VLAN:
+Рассмотрим виртуальный интерфейс для VLAN при помощи команды **show interface vlan1**:
+
 ![image](https://user-images.githubusercontent.com/89464074/130939269-f2d5c2df-56be-41d3-bf1f-0f343a17069b.png)
 
 
