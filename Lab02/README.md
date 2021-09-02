@@ -21,6 +21,13 @@ d.	Назначьте class в качестве пароля доступа к �
 - Используем команду ipconfig /all в командных строках компьютеров PC-A и PC-B:
 ![image](https://user-images.githubusercontent.com/89464074/131844929-081419a7-155d-4df5-a38a-937abb9966b6.png)![image](https://user-images.githubusercontent.com/89464074/131845002-4fdc59fb-f4ec-4540-8112-460facd3e0a9.png)
 
+MAC-адрес компьютера PC-A: **00E0.F7A0.67DE**
+MAC-адрес компьютера PC-B: **0060.47E5.C7C0**
+
+- Подключаемся к коммутаторам S1 и S2 через консоль и выполняем команду **show interface F0/1 **
+
+![image](https://user-images.githubusercontent.com/89464074/131845707-82454613-c7ff-480a-a333-5dcb042bda06.png)![image](https://user-images.githubusercontent.com/89464074/131845864-556b235f-1046-4706-aa81-97b0e6b41266.png)
+
 
 
 
