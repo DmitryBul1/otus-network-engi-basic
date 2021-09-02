@@ -11,4 +11,5 @@ c.	Назначьте cisco в качестве паролей консоли и
 d.	Назначьте class в качестве пароля доступа к привилегированному режиму EXEC.
 - Настроим базовые параметры коммутаторов S1 и S2 через консоль (смена имени хоста, установка IP-адреса, защита паролями режима EXEC, консольной линии и линий VTY)
 
-![image](https://user-images.githubusercontent.com/89464074/131839512-945b0804-c9df-4037-bfde-8d293127286b.png)
+![image](https://user-images.githubusercontent.com/89464074/131839512-945b0804-c9df-4037-bfde-8d293127286b.png) ![image](https://user-images.githubusercontent.com/89464074/131841837-bd12c1e4-a6f9-4b4a-8286-9a3eb3ade946.png)
+
