@@ -13,3 +13,7 @@ d.	Назначьте class в качестве пароля доступа к �
 
 ![image](https://user-images.githubusercontent.com/89464074/131839512-945b0804-c9df-4037-bfde-8d293127286b.png) ![image](https://user-images.githubusercontent.com/89464074/131841837-bd12c1e4-a6f9-4b4a-8286-9a3eb3ade946.png)
 
+- Настроим сетевые интерфейсы компьютеров PC-A и PC-B:
+![image](https://user-images.githubusercontent.com/89464074/131844243-dc5a25f4-eb2b-4d10-8601-7a1ead8a9d59.png) ![image](https://user-images.githubusercontent.com/89464074/131844186-7a635116-1465-4d39-af74-a0328fbb0225.png)
+
+
