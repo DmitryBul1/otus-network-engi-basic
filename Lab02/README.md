@@ -70,5 +70,5 @@ MAC-адрес компьютера PC-B: **00D0.BA14.6491**
 
 ![image](https://user-images.githubusercontent.com/89464074/132119237-afa15f99-e0c5-49a6-b2de-165dd7f0c3dd.png)
 
-Добавился новый адрес **00d0.ff34.8b7d**.
+Добавился новый адрес **00d0.ff34.8b7d** с портом f0/1.
 
