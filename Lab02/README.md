@@ -9,7 +9,10 @@
 
 - Инициализируем перезагрузку коммутаторов командой **reload** и настроим базовые параметры через консоль (смена имени хоста, установка IP-адреса, защита паролями режима EXEC, консольной линии и линий VTY)
 
-![image](https://user-images.githubusercontent.com/89464074/131839512-945b0804-c9df-4037-bfde-8d293127286b.png) ![image](https://user-images.githubusercontent.com/89464074/131841837-bd12c1e4-a6f9-4b4a-8286-9a3eb3ade946.png)
+![image](https://user-images.githubusercontent.com/89464074/132118028-32d09088-01fe-40a4-a198-73a1f1947fd2.png)
+![image](https://user-images.githubusercontent.com/89464074/132118191-4979eede-0df0-4d61-9c13-3772fa2a0daa.png)
+
+
 
 
 
