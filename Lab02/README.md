@@ -19,23 +19,25 @@
 ### Часть 2. Часть 2. Изучение таблицы МАС-адресов коммутатора.
 
 - Используем команду ipconfig /all в командных строках компьютеров PC-A и PC-B:
-![image](https://user-images.githubusercontent.com/89464074/131844929-081419a7-155d-4df5-a38a-937abb9966b6.png)![image](https://user-images.githubusercontent.com/89464074/131845002-4fdc59fb-f4ec-4540-8112-460facd3e0a9.png)
 
-MAC-адрес компьютера PC-A: **00E0.F7A0.67DE**
+![image](https://user-images.githubusercontent.com/89464074/132118337-193243be-039d-47be-ab42-3cc4337fb8ca.png) ![image](https://user-images.githubusercontent.com/89464074/132118372-fb73e87c-e42d-45a2-a114-d2992c290637.png)
 
-MAC-адрес компьютера PC-B: **0060.47E5.C7C0**
+
+
+MAC-адрес компьютера PC-A: **0003.E4A6.7A62**
+
+MAC-адрес компьютера PC-B: **00D0.BA14.6491**
 
 - Подключаемся к коммутаторам S1 и S2 через консоль и выполняем команду **show interface F0/1**
 
-![image](https://user-images.githubusercontent.com/89464074/131845707-82454613-c7ff-480a-a333-5dcb042bda06.png)![image](https://user-images.githubusercontent.com/89464074/131845864-556b235f-1046-4706-aa81-97b0e6b41266.png)
+![image](https://user-images.githubusercontent.com/89464074/132118404-4e555c73-8be3-4447-9775-139b0490e618.png) ![image](https://user-images.githubusercontent.com/89464074/132118431-d81f36ec-5c47-4c88-af58-d1e5d87c1a9b.png)
 
-МАС-адрес коммутатора S1 Fast Ethernet 0/1: **0060.7071.8c01 (bia 0060.7071.8c01)**
+МАС-адрес коммутатора S1 Fast Ethernet 0/1: **0060.7044.5501 (bia 0060.7044.5501)**
 
-МАС-адрес коммутатора S2 Fast Ethernet 0/1: **0002.4a30.b601 (bia 0002.4a30.b601)**
+МАС-адрес коммутатора S2 Fast Ethernet 0/1: **00e0.f978.db01 (bia 00e0.f978.db01)**
 
 - Подключаемся к S2 и командой **show mac address-table** отображаем таблицу MAC-адресов:
 
-![image](https://user-images.githubusercontent.com/89464074/131846777-4ba6276e-972f-415b-af54-b741b13e31de.png)
 
 В таблице записан только MAC-адрес коммутатора S1 **0060.7071.8c01** порта **f0/1**.
 
