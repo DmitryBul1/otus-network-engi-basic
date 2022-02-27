@@ -4,3 +4,5 @@
 
 Подключаемся через консоль:
 
+![L01NewPic01](https://user-images.githubusercontent.com/89464074/155875467-6e1bfc33-29a7-40ae-a20c-c8006e14c955.png)
+
