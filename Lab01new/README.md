@@ -44,6 +44,26 @@ VLAN1 имеет MAC-адрес 00e0.8fda.2bda и статус "отключен
 Данный нтерфейс имеет MAC-адрес 00d0.58b8.d906
 Настройки скорости и дуплекса по-умолчанию 100Mb/s и Full-duplex.
 
+Анализ интерфейса VLAN:
+
+![image](https://user-images.githubusercontent.com/89464074/155878131-d7078980-a147-4be1-b135-b227042b1c42.png)
+
+Имя сети - default.
+Порты сети VLAN: от f0/1 до f0/24 для FastEthernet и Gig0/1, Gig0/2 для GigabitEthernet.
+Статус сети VLAN - active.
+Тип сети - Default VLAN.
+
+Анализ Flash-памяти:
+
+![image](https://user-images.githubusercontent.com/89464074/155878256-d74bc3ac-a5bc-4209-b7df-c9987c325c59.png)
+
+В памяти находтся образ ОС.
+
+### Часть 2. Создание сети и настройка параметров
+
+
+
+
 
 
 
