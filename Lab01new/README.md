@@ -13,6 +13,45 @@
 Отображена информация по устройству: 24 порта FastEthernet, 2 порта GigabitEthernet, линии VTY в диапазонах 0-4 и 5-15.
 Сохраненной стартовой конфигурации в памяти устройства нет.
 
+Анализ интерфейса VLAN командой show interface vlan1:
+
+![L01NewPic05](https://user-images.githubusercontent.com/89464074/155876888-1cec7478-5e91-4f14-8f8a-785b77451da9.png)
+
+VLAN1 имеет MAC-адрес 00e0.8fda.2bda и статус "отключен".
+
+Подсоединямся к порту 6 при помощи кабеля ethernet.
+
+![L01NewPic06](https://user-images.githubusercontent.com/89464074/155877018-c1419189-6693-46b2-8d51-cccee7aae852.png) 
+
+Интерфейс FE0/6 активировался:
+
+![L01NewPic07](https://user-images.githubusercontent.com/89464074/155877051-680fa6eb-9d85-4ebf-9929-6bce40199d1e.png)
+
+Командой show version анализируем данные об IOS:
+
+![L01NewPic08](https://user-images.githubusercontent.com/89464074/155877215-5985c512-be48-4633-bf3d-b20bfd9b7c16.png)
+
+Версия ОС - Version 15.0(2)SE4
+Файл образа во флэш-памяти - c2960-lanbasek9-mz.150-2.SE4.bin
+Базовый MAC коммутатора - 00:17:59:A7:51:80
+
+Свойства интерфейса F0/6, к которому подключен PC-1 (команда show interface f0/6)
+
+![L01NewPic09](https://user-images.githubusercontent.com/89464074/155877445-36eb0099-dd07-4e61-8bbf-cf1614bee023.png)
+
+Интерфейс включен.
+Для включения пользуемся командой no shutdown в режиме конфигурации интерфейса.
+Данный нтерфейс имеет MAC-адрес 00d0.58b8.d906
+Настройки скорости и дуплекса по-умолчанию 100Mb/s и Full-duplex.
+
+
+
+
+
+
+
+
+
 
 
 
