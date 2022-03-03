@@ -61,6 +61,34 @@ VLAN1 имеет MAC-адрес 00e0.8fda.2bda и статус "отключен
 
 ### Часть 2. Создание сети и настройка параметров
 
+Настройка базовых параметров и присвоение IP-адреса виртуальному интерфейсу:
+
+![image](https://user-images.githubusercontent.com/89464074/156507918-bca62985-4afa-4496-b0f3-58834af1b777.png)
+
+Настройка доступа через консоль и настройка линий VTY:
+
+![image](https://user-images.githubusercontent.com/89464074/156508441-40bf0faa-bef1-4272-a3a3-8a961d8302ca.png)
+
+Настройка компьютера:
+
+![image](https://user-images.githubusercontent.com/89464074/156508742-5e429874-7771-431b-b2cf-1e6314e92ffb.png)
+
+
+### Часть 3. Проверка сетевых подключений
+
+Подключение через консоль с компьютера PC1
+
+![image](https://user-images.githubusercontent.com/89464074/156509575-2fc6ef67-f23b-4df3-8eee-38017d15611e.png) ![image](https://user-images.githubusercontent.com/89464074/156509641-0204049b-84cc-43c1-89d3-aade726e7a37.png)
+
+
+Просмотр интерфейса VLAN1
+
+![image](https://user-images.githubusercontent.com/89464074/156509767-ef037818-d439-4668-9ad7-d5e68b150348.png)
+
+Полоса пропускания - 100000 Кбит, состояния интерфейса - активен.
+
+
+
 
 
 
