@@ -77,13 +77,11 @@ VLAN1 имеет MAC-адрес 00e0.8fda.2bda и статус "отключен
 ### Часть 3. Проверка сетевых подключений
 
 Подключение через консоль с компьютера PC1
-![image](https://user-images.githubusercontent.com/89464074/156510511-63d2ed20-2bc2-451b-a656-cb070ce2e039.png)  ![image](https://user-images.githubusercontent.com/89464074/156510612-b4314ed7-4630-489b-a7a7-324b13553dc2.png)
+
 
 
 
 Просмотр интерфейса VLAN1
-
-![image](https://user-images.githubusercontent.com/89464074/156509767-ef037818-d439-4668-9ad7-d5e68b150348.png)
 
 Полоса пропускания - 100000 Кбит, состояния интерфейса - активен.
 
