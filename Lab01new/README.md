@@ -63,11 +63,13 @@ VLAN1 имеет MAC-адрес 00e0.8fda.2bda и статус "отключен
 
 Настройка базовых параметров и присвоение IP-адреса виртуальному интерфейсу:
 
-![image](https://user-images.githubusercontent.com/89464074/156507918-bca62985-4afa-4496-b0f3-58834af1b777.png)
+![2-01](https://user-images.githubusercontent.com/89464074/156511624-439f6cd4-8e08-411e-b329-715f085dc72f.png)
+
 
 Настройка доступа через консоль и настройка линий VTY:
 
-![image](https://user-images.githubusercontent.com/89464074/156508441-40bf0faa-bef1-4272-a3a3-8a961d8302ca.png)
+![2-02](https://user-images.githubusercontent.com/89464074/156511632-9f17d6a7-2d5b-4518-8d4a-fb9dc51b5299.png)
+
 
 Настройка компьютера:
 
@@ -84,6 +86,20 @@ VLAN1 имеет MAC-адрес 00e0.8fda.2bda и статус "отключен
 ![image](https://user-images.githubusercontent.com/89464074/156511228-5147cb61-7598-405a-b5c8-885707b8b0d3.png)
 
 Полоса пропускания - 100000 Кбит, состояния интерфейса - активен.
+
+Эхо-запросы с PC1 на PC1 и к коммутатору S1
+
+![image](https://user-images.githubusercontent.com/89464074/156512182-48265b79-41bc-43bc-9eb7-4ccfbafc18d8.png)
+
+Подключение через Telnet
+
+![image](https://user-images.githubusercontent.com/89464074/156513131-da836161-3a9f-4bd3-a1dd-06d6ba85110f.png)
+
+Вопросы:
+
+Зачем необходимо настраивать пароль VTY? – для защиты удаленного подключения к устройству.
+Что нужно сделать, чтобы пароли не отправлялись в незашифрованном виде? – использовать команду конфигурации service password-encryption.
+
 
 
 
