@@ -34,4 +34,21 @@
 
 ### Часть 3. Настройка коммутатора для доступа по протоколу SSH
 
+- Настроим основные параметры коммутатора:
+
+![image](https://user-images.githubusercontent.com/89464074/174660723-1e65bed6-a74a-4581-87c7-fb00246c9bf0.png)  ![image](https://user-images.githubusercontent.com/89464074/174660774-84a1c17f-d150-4b9e-aca9-7a0921e40774.png)
+
+![image](https://user-images.githubusercontent.com/89464074/174661766-8d842d21-fc2b-4dbb-926b-2cd1120a172e.png)
+
+- Поднимаем интерфейс vlan1 на коммутаторе:
+
+![image](https://user-images.githubusercontent.com/89464074/174661871-f8f0fb6f-d2f4-499d-bed2-04da615b4b60.png)
+
+
+
+
+
+
+
+
 
