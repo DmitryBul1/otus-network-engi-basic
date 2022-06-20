@@ -3,7 +3,8 @@
 ### Топология по заданию:
 ![image](https://user-images.githubusercontent.com/89464074/174649685-aebf9ece-25a9-47bb-842f-3ed0fd55f3c4.png)
 
-
 ### Часть 1. Настройка основных параметров устройств
 
+- Первоначальная настройка роутера R1 с отключением поиска DNS, защитой консоли и линий VTY:
+![image](https://user-images.githubusercontent.com/89464074/174651779-99fa916c-2c82-430b-aae9-fb6498216b41.png)
 
