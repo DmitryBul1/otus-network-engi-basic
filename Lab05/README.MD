@@ -55,6 +55,11 @@
 ![image](https://user-images.githubusercontent.com/89464074/174667905-8a4117d4-9f37-42d0-a897-7722306a61e6.png)
 
 
+### Часть 4. Настройка протокола SSH с использованием интерфейса командной строки (CLI) коммутатора
+
+- Подключаемся к роутеру R1 по SSH
+- 
+![image](https://user-images.githubusercontent.com/89464074/174668372-0507deed-f8a9-4b76-89cb-1b1bb43c2bf4.png)
 
 
 
