@@ -40,9 +40,19 @@
 
 ![image](https://user-images.githubusercontent.com/89464074/174661766-8d842d21-fc2b-4dbb-926b-2cd1120a172e.png)
 
-- Поднимаем интерфейс vlan1 на коммутаторе:
+- Поднимаем интерфейс vlan1 на коммутаторе и сохраняем конфигурацию:
 
-![image](https://user-images.githubusercontent.com/89464074/174661871-f8f0fb6f-d2f4-499d-bed2-04da615b4b60.png)
+![image](https://user-images.githubusercontent.com/89464074/174662149-2819da79-b459-4799-aa4c-c2b446701525.png)
+
+- Устанавливаем ключи шифрования, создаем пользователя и активируем протоколы telnet и SSH на линиях VTY:
+
+![image](https://user-images.githubusercontent.com/89464074/174663349-20be065d-0b84-4344-8367-37ac95af506f.png)
+
+- Тестируем подключение к коммутатору:
+
+![image](https://user-images.githubusercontent.com/89464074/174663642-7335f33c-f253-4ff2-a7da-7a82807cfaa2.png)
+
+![image](https://user-images.githubusercontent.com/89464074/174667905-8a4117d4-9f37-42d0-a897-7722306a61e6.png)
 
 
 
