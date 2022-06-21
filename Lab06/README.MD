@@ -50,8 +50,11 @@
 
 ![image](https://user-images.githubusercontent.com/89464074/174779449-fdc535f8-5c69-483b-ac16-ca61afc79b8d.png)
 
+- Проверяем настройки магистрали:
 
-- 
+![image](https://user-images.githubusercontent.com/89464074/174781540-5699e300-e8f0-476e-868f-9993798c4f7e.png)
+![image](https://user-images.githubusercontent.com/89464074/174781358-7e645e30-cfb2-4227-ad2c-730a548bee16.png)
+
 
 
 
