@@ -1,13 +1,15 @@
 # Лабораторная работа 5. Доступ к сетевым устройствам по протоколу SSH
 
 ### Топология по заданию:
+
 ![image](https://user-images.githubusercontent.com/89464074/174649685-aebf9ece-25a9-47bb-842f-3ed0fd55f3c4.png)
 
 ### Часть 1. Настройка основных параметров устройств
 
 - Первоначальная настройка роутера R1 с отключением поиска DNS, защитой консоли и линий VTY, а также с шифрованием паролей и прописью баннера:
 
-![image](https://user-images.githubusercontent.com/89464074/174652626-c385b1f6-9f5b-4eee-bdf5-bdcb7dcf766f.png)
+![image](https://user-images.githubusercontent.com/89464074/174728884-2f065603-02ff-4766-a4aa-382c1f498d7b.png)
+![0174652626-c385b1f6-9f5b-4eee-bdf5-bdcb7dcf766f](https://user-images.githubusercontent.com/89464074/174728927-8bba9fc0-3ac4-44f2-8a3a-6e9364514998.png)
 
 - Настроим и активируем интерфейс роутера G/0/01:
 
@@ -45,8 +47,9 @@
 ![image](https://user-images.githubusercontent.com/89464074/174662149-2819da79-b459-4799-aa4c-c2b446701525.png)
 
 - Устанавливаем ключи шифрования, создаем пользователя и активируем протоколы telnet и SSH на линиях VTY:
-
-![image](https://user-images.githubusercontent.com/89464074/174663349-20be065d-0b84-4344-8367-37ac95af506f.png)
+- 
+![0_174663349-20be065d-0b84-4344-8367-37ac95af506f](https://user-images.githubusercontent.com/89464074/174729675-95a10b5f-d2ea-44e8-965b-154ce28b0043.png)
+![1_174663349-20be065d-0b84-4344-8367-37ac95af506f](https://user-images.githubusercontent.com/89464074/174729686-1b3926cc-56da-492d-be16-c7878ae587af.png)
 
 - Тестируем подключение к коммутатору:
 
