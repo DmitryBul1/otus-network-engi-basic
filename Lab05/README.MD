@@ -27,7 +27,7 @@
 
 - Активируем протокол SSH на линиях VTY и сохраняем конфиг:
 
-![image](https://user-images.githubusercontent.com/89464074/174658754-b7603899-18e6-40af-af85-5c8bd7273dd8.png)
+![image](https://user-images.githubusercontent.com/89464074/174730939-0eabb84b-5fcf-480a-b511-7563c3ad9635.png)
 
 - Тестируем подключение с PC-A:
 
@@ -46,10 +46,9 @@
 
 ![image](https://user-images.githubusercontent.com/89464074/174662149-2819da79-b459-4799-aa4c-c2b446701525.png)
 
-- Устанавливаем ключи шифрования, создаем пользователя и активируем протоколы telnet и SSH на линиях VTY:
-- 
-![0_174663349-20be065d-0b84-4344-8367-37ac95af506f](https://user-images.githubusercontent.com/89464074/174729675-95a10b5f-d2ea-44e8-965b-154ce28b0043.png)
-![1_174663349-20be065d-0b84-4344-8367-37ac95af506f](https://user-images.githubusercontent.com/89464074/174729686-1b3926cc-56da-492d-be16-c7878ae587af.png)
+- Устанавливаем ключи шифрования, создаем пользователя и активируем протоколы telnet и SSH на линиях VTY: 
+![image](https://user-images.githubusercontent.com/89464074/174732407-853dac66-7f10-4ad2-a00b-eeedebfe8b22.png)
+![image](https://user-images.githubusercontent.com/89464074/174732113-404a828d-cfb4-4c5c-8ccc-f1bf044a5bfa.png)
 
 - Тестируем подключение к коммутатору:
 
@@ -60,9 +59,12 @@
 
 ### Часть 4. Настройка протокола SSH с использованием интерфейса командной строки (CLI) коммутатора
 
-- Подключаемся к роутеру R1 по SSH
+- Подключаемся к роутеру R1 по SSH и тестируем элементы управления по заданию:
 - 
-![image](https://user-images.githubusercontent.com/89464074/174668372-0507deed-f8a9-4b76-89cb-1b1bb43c2bf4.png)
+![image](https://user-images.githubusercontent.com/89464074/174733311-d4cd2643-73e6-4b37-af0c-1f081db0842f.png)
+
+
+
 
 
 
