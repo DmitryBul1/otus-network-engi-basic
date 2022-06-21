@@ -55,10 +55,25 @@
 ![image](https://user-images.githubusercontent.com/89464074/174781540-5699e300-e8f0-476e-868f-9993798c4f7e.png)
 ![image](https://user-images.githubusercontent.com/89464074/174781358-7e645e30-cfb2-4227-ad2c-730a548bee16.png)
 
-- Далее настроим интерфейс f0/5 коммутатора S1 в режим транки до роутера R1:
+- Далее настроим интерфейс f0/5 коммутатора S1 в режим транка до роутера R1:
 
 ![image](https://user-images.githubusercontent.com/89464074/174784433-60b0b6c8-9784-4f81-8bf0-7254ba237d94.png)
 
+### Часть 4. Настройка маршрутизации между сетями
 
+- Настроим подинтерфейсы порта g0/0/1 роутера R1:
+
+![image](https://user-images.githubusercontent.com/89464074/174790177-8189f24e-e322-4ef9-b490-711fe5635f90.png)
+![image](https://user-images.githubusercontent.com/89464074/174790383-f70619d1-94e3-4351-a19c-b0fe403650a9.png)
+
+![image](https://user-images.githubusercontent.com/89464074/174790688-0b21870b-d09b-45ca-9b4d-090894110040.png)
+
+### Часть 5. Проверка маршрутизации между VLAN
+- Пинг основного шлюза, узла PC-B и коммутатора S2 с узла PC-A:
+
+![image](https://user-images.githubusercontent.com/89464074/174793334-78a03207-4b38-424f-a62f-72eba123bb28.png)
+
+
+![image](https://user-images.githubusercontent.com/89464074/174792894-6c65d862-ffa3-48bd-a1b1-7a587ad6347c.png)
 
 
