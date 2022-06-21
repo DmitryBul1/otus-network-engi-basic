@@ -55,6 +55,10 @@
 ![image](https://user-images.githubusercontent.com/89464074/174781540-5699e300-e8f0-476e-868f-9993798c4f7e.png)
 ![image](https://user-images.githubusercontent.com/89464074/174781358-7e645e30-cfb2-4227-ad2c-730a548bee16.png)
 
+- Далее настроим интерфейс f0/5 коммутатора S1 в режим транки до роутера R1:
+
+![image](https://user-images.githubusercontent.com/89464074/174784433-60b0b6c8-9784-4f81-8bf0-7254ba237d94.png)
+
 
 
 
