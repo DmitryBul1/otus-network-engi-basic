@@ -69,11 +69,14 @@
 ![image](https://user-images.githubusercontent.com/89464074/174790688-0b21870b-d09b-45ca-9b4d-090894110040.png)
 
 ### Часть 5. Проверка маршрутизации между VLAN
-- Пинг основного шлюза, узла PC-B и коммутатора S2 с узла PC-A:
+- Успешный пинг основного шлюза, узла PC-B и коммутатора S2 с узла PC-A:
 
 ![image](https://user-images.githubusercontent.com/89464074/174793334-78a03207-4b38-424f-a62f-72eba123bb28.png)
 
+- Выполняем команду tracert c узла PC-B на адрес узла PC-A
 
-![image](https://user-images.githubusercontent.com/89464074/174792894-6c65d862-ffa3-48bd-a1b1-7a587ad6347c.png)
+![image](https://user-images.githubusercontent.com/89464074/174794233-ffd4e5da-7068-4e58-9848-cfc755f250f7.png)
+
+Маршрут проследовал через подинтерфейс роутера 192.168.30.1.
 
 
