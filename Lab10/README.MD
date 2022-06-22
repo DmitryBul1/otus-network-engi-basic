@@ -26,7 +26,7 @@
 - В режиме конфигурации OSPF с идентификатором 56 настраиваем идентификаторы роутеров и инструкцию сети между ними в area 0
 
 ![image](https://user-images.githubusercontent.com/89464074/175115024-27af6eb8-6087-47a2-bdcd-ae974caa80a0.png)
-![image](https://user-images.githubusercontent.com/89464074/175115323-79a91402-6553-4d9a-9938-e580cca73cd9.png)
+![image](https://user-images.githubusercontent.com/89464074/175115584-d7c32b91-3748-4fa8-8eb4-cfc7afd24a92.png)
 
 
 
