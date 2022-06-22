@@ -46,7 +46,9 @@ State DR получил роутер R2
 
 ![image](https://user-images.githubusercontent.com/89464074/175120945-bc23907d-365e-4a80-83f0-29d5872155df.png)
 
+Проверка таблицы маршрутизации R1 на наличие сети loopback R2, а также пинг на 192.168.1.1
 
+![image](https://user-images.githubusercontent.com/89464074/175122121-c91da78c-d178-4833-98e3-41d6208604a6.png)
 
 
 ### Часть 3. Оптимизация и проверка конфигурации OSPFv2 для одной области
