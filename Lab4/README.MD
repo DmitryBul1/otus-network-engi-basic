@@ -46,7 +46,9 @@
 
 ![image](https://user-images.githubusercontent.com/89464074/175025946-c27cfe39-453f-48ee-8b62-182b476395d6.png)
 
+- Ping с PC-B на PC-A, а также на локальный адрес канала g0/0/0 роутера R1:
 
+![image](https://user-images.githubusercontent.com/89464074/175026558-284947ec-0776-4599-868d-7f11140801f0.png)
 
 
 
