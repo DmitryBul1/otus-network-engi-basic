@@ -13,6 +13,8 @@
 ![image](https://user-images.githubusercontent.com/89464074/175110868-b8fca644-a46a-4cac-8350-e7b4cf78c1bd.png)
 ![image](https://user-images.githubusercontent.com/89464074/175111040-20befca5-5152-4565-a9db-d5d876ed19cc.png)
 
+![image](https://user-images.githubusercontent.com/89464074/175111524-a0989391-feb2-43b6-a9dc-154086accc1a.png)
+(Примечание к отчетному скину выше - сперва промахнулся и ip адрес присвоил интерфейсу g0/0/0, когда заметил, отправил его в шатдаун)
 
 
 
