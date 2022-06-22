@@ -20,12 +20,19 @@
 
 ![image](https://user-images.githubusercontent.com/89464074/175018839-9e671c24-851b-4e3b-9ea4-b7df9604ae57.png)![image](https://user-images.githubusercontent.com/89464074/175018884-7df8f685-fc40-4ea0-933e-3355ea8cc26e.png)
 
-- Рассмотрим многоадресной рассылки, назначенные интерфейсу g/0/0/0
+- Рассмотрим группы многоадресной рассылки, назначенные интерфейсу g/0/0/0
 
 ![image](https://user-images.githubusercontent.com/89464074/175020288-0e001cf7-0195-4cbc-b3e2-c9d2f7f9b919.png)
 
-
 - Далее активируем IPV6-маршрутизацию на R1. 
+При просмотре параметров сетевой карты PC-B командой ipconfig, было отмечено, что индивидуальный ipv6 адрес не присвоен, только link-local.
+На R1 была выполнена команда "ipv6 unicast-routing".
+
+![image](https://user-images.githubusercontent.com/89464074/175021660-7cb987a8-e8bb-4065-9ea8-8d028f29a035.png)
+
+Компьютер PC-B получил ipv6 адрес в автоматическом режиме.
+
+
 
 
 
