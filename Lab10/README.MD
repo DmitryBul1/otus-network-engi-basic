@@ -9,6 +9,7 @@
 Настроим интерфейсы для каждого из устройств.
 
 - Настройка и просмотр интерфейсов R1
+
 ![image](https://user-images.githubusercontent.com/89464074/175109920-2d13dc51-6fa0-453c-a292-be1c5b77ed26.png)
 ![image](https://user-images.githubusercontent.com/89464074/175110221-3bd344f0-b3ef-4b5f-8a4f-863377ac51d0.png)
 ![image](https://user-images.githubusercontent.com/89464074/175110284-b8f9950a-3b04-4c4b-aeaa-d31a1ee492d1.png)
