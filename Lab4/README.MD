@@ -10,6 +10,10 @@
 
 ![image](https://user-images.githubusercontent.com/89464074/175008776-caba234a-e0db-4514-9ed6-ab86816d4098.png)
 
+- Назначим IPv6-адреса интерфейсам g0/0/0 и g0/0/1 Ethernet на R1:
+
+![image](https://user-images.githubusercontent.com/89464074/175016311-1b5b6588-b846-4777-b0ce-3a3281b9e882.png)
+
 
 
 
