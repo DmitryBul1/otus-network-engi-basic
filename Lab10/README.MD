@@ -34,7 +34,11 @@
 
 На роутере R2 также была добавлена сеть loopback 192.168.0.0 255.255.255.0 в Area 0 
 
-![image](https://user-images.githubusercontent.com/89464074/175117905-03496a60-b460-4bbf-957d-e198dd134969.png)
+![image](https://user-images.githubusercontent.com/89464074/175118433-48b1a970-12f9-4006-9a64-9475ecf319f4.png)
+
+В качестве DR выбран роутер R1 с более высшим ID.
+
+![image](https://user-images.githubusercontent.com/89464074/175119793-d198b1c3-1aaa-4bd3-a0d0-01eff2bd3bb4.png)
 
 
 
