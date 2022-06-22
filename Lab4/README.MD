@@ -20,6 +20,12 @@
 
 ![image](https://user-images.githubusercontent.com/89464074/175018839-9e671c24-851b-4e3b-9ea4-b7df9604ae57.png)![image](https://user-images.githubusercontent.com/89464074/175018884-7df8f685-fc40-4ea0-933e-3355ea8cc26e.png)
 
+- Рассмотрим многоадресной рассылки, назначенные интерфейсу g/0/0/0
+
+![image](https://user-images.githubusercontent.com/89464074/175020288-0e001cf7-0195-4cbc-b3e2-c9d2f7f9b919.png)
+
+
+- Далее активируем IPV6-маршрутизацию на R1. 
 
 
 
