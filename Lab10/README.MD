@@ -14,8 +14,12 @@
 ![image](https://user-images.githubusercontent.com/89464074/175111040-20befca5-5152-4565-a9db-d5d876ed19cc.png)
 
 ![image](https://user-images.githubusercontent.com/89464074/175111524-a0989391-feb2-43b6-a9dc-154086accc1a.png)
+
 (Примечание к отчетному скину выше - сперва промахнулся и ip адрес присвоил интерфейсу g0/0/0, когда заметил, отправил его в шатдаун)
 
+- Аналогично для R2:
+
+![image](https://user-images.githubusercontent.com/89464074/175112646-3004606f-1f10-4ddb-a66e-8a1f10df18f9.png)
 
 
 ### Часть 2. Настройка и проверка базовой работы протокола OSPFv2 для одной области
