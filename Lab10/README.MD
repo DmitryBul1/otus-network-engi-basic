@@ -28,6 +28,14 @@
 ![image](https://user-images.githubusercontent.com/89464074/175115024-27af6eb8-6087-47a2-bdcd-ae974caa80a0.png)
 ![image](https://user-images.githubusercontent.com/89464074/175115584-d7c32b91-3748-4fa8-8eb4-cfc7afd24a92.png)
 
+- Проверка отношений смежности между роутерами:
+
+![image](https://user-images.githubusercontent.com/89464074/175117557-7fd05008-ac35-45cb-ada2-e915b411810b.png)
+
+На роутере R2 также была добавлена сеть loopback 192.168.0.0 255.255.255.0 в Area 0 
+
+![image](https://user-images.githubusercontent.com/89464074/175117905-03496a60-b460-4bbf-957d-e198dd134969.png)
+
 
 
 ### Часть 3. Оптимизация и проверка конфигурации OSPFv2 для одной области
