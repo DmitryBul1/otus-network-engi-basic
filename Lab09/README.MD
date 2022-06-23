@@ -84,6 +84,10 @@
 
 ![image](https://user-images.githubusercontent.com/89464074/175388780-d5b1ea9c-bf2a-471c-b76e-6974d6931bf4.png)
 
+- Обновляем IP-адрес PC-B
+
+![image](https://user-images.githubusercontent.com/89464074/175395591-e04f1b70-6369-43d0-972b-7b282559edcb.png)
+
 
 
 
