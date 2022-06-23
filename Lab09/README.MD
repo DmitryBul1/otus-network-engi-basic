@@ -21,6 +21,11 @@
 
 - Создадим VLAN 10 на S1 и S2, укажем IP-адрес (по таблице задания) и шлюз по-умолчанию:
 
-![image](https://user-images.githubusercontent.com/89464074/175306161-1a030b04-5dd1-4d5b-9282-2dc5de1a6942.png)
+![image](https://user-images.githubusercontent.com/89464074/175356680-72221ee6-451f-42dd-af0b-693d61a0b596.png)
+(примечание - ошибка в адресе на S1)
+
+- Создаем VLAN 333 и 999 коммутаторах S1 и S2
+
+![image](https://user-images.githubusercontent.com/89464074/175360187-4beb0b6b-7da0-4c07-8fb9-09de7233194f.png)
 
 
