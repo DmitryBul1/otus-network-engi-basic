@@ -60,7 +60,14 @@
 
 ![image](https://user-images.githubusercontent.com/89464074/175371834-5575221c-545c-4c70-8a85-4161dfea078e.png)
 
-- Включим защиту порта на F0 / 6 на S1
+- Включим защиту порта на F0 / 6 на S1 и порта f0/18 на S2 при помощи команды switchport port-security и укажем параметры
+
+![image](https://user-images.githubusercontent.com/89464074/175383118-36089c39-7422-44e7-b05f-6fc9ca6a7ade.png)
+
+![image](https://user-images.githubusercontent.com/89464074/175383487-d6b69348-d58c-495e-8184-0dd405d23725.png)
+
+
+
 
 
 
