@@ -55,5 +55,17 @@
 ![image](https://user-images.githubusercontent.com/89464074/175369276-be8f0d8e-c194-464d-8ed5-1e3edbc630c9.png)
 ![image](https://user-images.githubusercontent.com/89464074/175369491-d756e170-c856-44f1-b274-94568b6216a4.png)
 
+- Настройка безопасности на интерфейсах F0/6 на S1 и F0/18 на S2
+Результат команды show port-security interface f0/6  на S1 (защита отключена)
+
+![image](https://user-images.githubusercontent.com/89464074/175371834-5575221c-545c-4c70-8a85-4161dfea078e.png)
+
+- Включим защиту порта на F0 / 6 на S1
+
+
+
+
+
+
 
 
