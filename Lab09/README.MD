@@ -4,6 +4,10 @@
 
 ![image](https://user-images.githubusercontent.com/89464074/175300599-a117a12b-ffc0-4a94-bdc4-5b4e54e7f91a.png)
 
+![image](https://user-images.githubusercontent.com/89464074/175353616-c451c2fb-f7fc-43fd-a418-bb19414b876e.png)
+![image](https://user-images.githubusercontent.com/89464074/175353761-f28b73a2-0ebe-4ce8-84b1-30bcf12d9d7a.png)
+
+
 # Часть 1
 - Настройка роутера по инструкции задания
 
