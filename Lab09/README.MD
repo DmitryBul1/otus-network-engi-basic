@@ -49,3 +49,11 @@
 - Порты f0/5-6 коммутатора S1 и порт s0/18 коммутатора S2 привязываются к VLAN 10
 
 ![image](https://user-images.githubusercontent.com/89464074/175367552-07b616da-b947-4602-b8bd-c156ea2d1a45.png)
+
+- Отключим неиспользуемые порты и поместим их в VLAN 999
+
+![image](https://user-images.githubusercontent.com/89464074/175369276-be8f0d8e-c194-464d-8ed5-1e3edbc630c9.png)
+![image](https://user-images.githubusercontent.com/89464074/175369491-d756e170-c856-44f1-b274-94568b6216a4.png)
+
+
+
