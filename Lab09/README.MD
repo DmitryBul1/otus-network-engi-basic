@@ -80,7 +80,9 @@
 
 ![image](https://user-images.githubusercontent.com/89464074/175387524-c8f726dd-c863-4cc6-8840-c0eb95df6c51.png)
 
+(примечание - изначально установил и траст и лимит на f0/1, далее исправил)
 
+![image](https://user-images.githubusercontent.com/89464074/175388780-d5b1ea9c-bf2a-471c-b76e-6974d6931bf4.png)
 
 
 
