@@ -41,8 +41,6 @@
 
 ![image](https://user-images.githubusercontent.com/89464074/175119793-d198b1c3-1aaa-4bd3-a0d0-01eff2bd3bb4.png)
 
-![image](https://user-images.githubusercontent.com/89464074/175120482-0b549b9c-d280-4165-9f99-32fc174cd7bf.png)
-
 State DR получил роутер R2
 
 ![image](https://user-images.githubusercontent.com/89464074/175120945-bc23907d-365e-4a80-83f0-29d5872155df.png)
