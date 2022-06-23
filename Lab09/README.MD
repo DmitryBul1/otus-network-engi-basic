@@ -66,6 +66,14 @@
 
 ![image](https://user-images.githubusercontent.com/89464074/175383487-d6b69348-d58c-495e-8184-0dd405d23725.png)
 
+![image](https://user-images.githubusercontent.com/89464074/175383719-d7e3ef90-363a-4e3a-b931-9945e69a2663.png)
+
+(примечание - лишние маки это результат экспериментов с командами)
+
+![image](https://user-images.githubusercontent.com/89464074/175383944-6c8fafbc-ba50-4d6c-aa8c-fffdb60d63c7.png)
+
+-
+![image](https://user-images.githubusercontent.com/89464074/175384293-7a7b3e33-8d37-480f-9b31-ac75957df93a.png)
 
 
 
