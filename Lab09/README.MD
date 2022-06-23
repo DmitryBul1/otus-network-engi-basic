@@ -4,7 +4,6 @@
 
 ![image](https://user-images.githubusercontent.com/89464074/175300599-a117a12b-ffc0-4a94-bdc4-5b4e54e7f91a.png)
 
-# Часть 1
 - Настройка роутера по инструкции задания
 
 ![image](https://user-images.githubusercontent.com/89464074/175353616-c451c2fb-f7fc-43fd-a418-bb19414b876e.png)
@@ -27,5 +26,17 @@
 - Создаем VLAN 333 и 999 коммутаторах S1 и S2
 
 ![image](https://user-images.githubusercontent.com/89464074/175360187-4beb0b6b-7da0-4c07-8fb9-09de7233194f.png)
+
+# Часть 3. Настройки безопасности коммутатора.
+
+- Шаг 1. Релизация магистральных соединений 802.1Q.
+
+![image](https://user-images.githubusercontent.com/89464074/175363417-c96dec9b-3da4-4d7a-bda7-75b781f15e56.png)
+![image](https://user-images.githubusercontent.com/89464074/175363533-e2e45741-c2bc-445d-8be4-9b4abb9c7da1.png)
+
+- Смотрим результат при помощи команды sh int trunk
+
+![image](https://user-images.githubusercontent.com/89464074/175363996-5dd94f2f-708d-4ef2-9753-879239f6d4f8.png)
+
 
 
