@@ -15,8 +15,9 @@
 
 
 - НАстройка коммутаторов S1 и S2, создание VLAN:
-- Настроим коммутатор S1, зададим имя и description для активных портов:
+- Настроим коммутаторы S1 и S2, зададим имя и description для активных портов:
 ![image](https://user-images.githubusercontent.com/89464074/175304862-5bc8ceb7-5322-47e1-bcd1-00d99f4e1448.png)
+![image](https://user-images.githubusercontent.com/89464074/175354974-2646f8e3-2828-4a07-82bd-a276d28a6579.png)
 
 - Создадим VLAN 10 на S1 и S2, укажем IP-адрес (по таблице задания) и шлюз по-умолчанию:
 
