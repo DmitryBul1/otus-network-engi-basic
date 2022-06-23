@@ -72,8 +72,13 @@
 
 ![image](https://user-images.githubusercontent.com/89464074/175383944-6c8fafbc-ba50-4d6c-aa8c-fffdb60d63c7.png)
 
--
+- Активируем sticky для порта f0/18 на S2
+
 ![image](https://user-images.githubusercontent.com/89464074/175384293-7a7b3e33-8d37-480f-9b31-ac75957df93a.png)
+
+- Активируем Snooping, snooping trust и limit rate
+
+![image](https://user-images.githubusercontent.com/89464074/175387524-c8f726dd-c863-4cc6-8840-c0eb95df6c51.png)
 
 
 
