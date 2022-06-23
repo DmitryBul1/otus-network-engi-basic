@@ -2,6 +2,8 @@
 
 # Топология
 
+![image](https://user-images.githubusercontent.com/89464074/175300599-a117a12b-ffc0-4a94-bdc4-5b4e54e7f91a.png)
+
 #
 - Настройка роутера по инструкции задания
 
