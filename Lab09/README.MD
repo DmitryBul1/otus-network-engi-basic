@@ -88,7 +88,9 @@
 
 ![image](https://user-images.githubusercontent.com/89464074/175395591-e04f1b70-6369-43d0-972b-7b282559edcb.png)
 
+- Смотрим результат команды show ip dhcp snooping binding 
 
+![image](https://user-images.githubusercontent.com/89464074/175399028-b44dce43-0839-476c-a697-c9502cd62142.png)
 
 
 
