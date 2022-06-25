@@ -60,7 +60,9 @@ Loopback 1 в качестве интерфейса выхода и выполн
 
 Далее на R2 командой ip ospf network point-to-point настраиваем loopback1 как сеть P-t-P.
 
-![image](https://user-images.githubusercontent.com/89464074/175577084-66e88f6d-b413-4146-b72d-a7ba52d9a82a.png)
+![image](https://user-images.githubusercontent.com/89464074/175773228-a371239b-a7d1-47ee-a1f9-8664e4079e74.png)
+
+
 
 
 
