@@ -60,16 +60,13 @@ Loopback 1 в качестве интерфейса выхода и выполн
 
 ![image](https://user-images.githubusercontent.com/89464074/175773295-94b4da10-91d4-49c5-9a48-053b33ec5eca.png)
 
-На роутере R2 среди маршрутов OSPF отображается только маршрут по-умолчанию с R1.
-
-![image](https://user-images.githubusercontent.com/89464074/175773474-c2535458-1821-45f3-b229-474aa91b30c4.png)
-
-
 Далее на R2 командой ip ospf network point-to-point настраиваем loopback1 как сеть P-t-P.
 
 ![image](https://user-images.githubusercontent.com/89464074/175773228-a371239b-a7d1-47ee-a1f9-8664e4079e74.png)
 
+На роутере R2 среди маршрутов OSPF отображается только маршрут по-умолчанию с R1.
 
+![image](https://user-images.githubusercontent.com/89464074/175773474-c2535458-1821-45f3-b229-474aa91b30c4.png)
 
 
 
