@@ -69,8 +69,22 @@ Loopback 1 в качестве интерфейса выхода и выполн
 ![image](https://user-images.githubusercontent.com/89464074/175773474-c2535458-1821-45f3-b229-474aa91b30c4.png)
 
 
+Указание на предотвращение отправки объявлений OSPF в сеть Loopback 1 на R2.
 
+![image](https://user-images.githubusercontent.com/89464074/175773773-0b81803b-4740-4fe5-862c-1622cc0d14e2.png)
 
+На R1 и R2 изменяем базовую пропускную способность:
+
+![image](https://user-images.githubusercontent.com/89464074/175773878-e17d416c-7011-4599-b1aa-8d824c1a36c2.png)
+
+Просмотр настроек на R1
+
+![image](https://user-images.githubusercontent.com/89464074/175773958-bebb1e30-4415-454f-a4d7-62637cd68663.png)
+![image](https://user-images.githubusercontent.com/89464074/175773994-9568f20c-e94f-4caf-ac8e-1b61a0358307.png)
+
+Проверяем пинг с R2 на loopback1 роутера R1. Пинг прошел успешно.
+
+![image](https://user-images.githubusercontent.com/89464074/175774041-5dec9ca4-db24-4fff-8c63-7f58ab321f1b.png)
 
 
 
