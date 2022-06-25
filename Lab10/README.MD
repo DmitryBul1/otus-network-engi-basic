@@ -56,7 +56,9 @@ State DR получил роутер R1
 Для R1 пропишем статический маршрут по умолчанию, который использует интерфейс 
 Loopback 1 в качестве интерфейса выхода и выполним команду default-information originate.
 
-![image](https://user-images.githubusercontent.com/89464074/175575511-b01fe789-c051-4ca6-8587-484b0a39eb7a.png)
+![image](https://user-images.githubusercontent.com/89464074/175773310-8c6267c4-f6b3-45be-9b5c-c082819dd3d4.png)
+
+![image](https://user-images.githubusercontent.com/89464074/175773295-94b4da10-91d4-49c5-9a48-053b33ec5eca.png)
 
 Далее на R2 командой ip ospf network point-to-point настраиваем loopback1 как сеть P-t-P.
 
