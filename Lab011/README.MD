@@ -46,7 +46,10 @@
 
 ![image](https://user-images.githubusercontent.com/89464074/176010010-97cc493f-4683-4aa2-b73e-d57da062a71d.png)
 
-### R2 доделать
+### R2 маршрут по-умолчанию
+
+![image](https://user-images.githubusercontent.com/89464074/176019528-235caaf7-3f80-4502-a5f1-d63d21fe1db1.png)
+
 
 ### Настройки удаленного доступа
 - Добавим пользователя на все сетевые устройства, подключим SSH
