@@ -32,6 +32,20 @@
 
 ![image](https://user-images.githubusercontent.com/89464074/176004381-7de83d9c-1b77-45cb-bd72-8e05c5e041e6.png)
 
+- Настроим магистральный интерфейс F0/5 на коммутаторе S1 до роутера R1
+
+### Настройка маршрутизации
+
+- Настройка маршрутизации между сетями VLAN на R1. Настроим подинтерфейсы
+
+![image](https://user-images.githubusercontent.com/89464074/176010144-4227857e-d695-47b2-9ee5-9887edf9ed7b.png)
+
+- Добавим loopback на R1
+
+![image](https://user-images.githubusercontent.com/89464074/176008822-9c8f25d0-bc4b-40aa-a46b-d1df86d99e2b.png)
+
+![image](https://user-images.githubusercontent.com/89464074/176010010-97cc493f-4683-4aa2-b73e-d57da062a71d.png)
+
 
 
 
