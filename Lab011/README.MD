@@ -14,4 +14,7 @@
 
 ![image](https://user-images.githubusercontent.com/89464074/175995196-8b246d40-1153-4c48-b897-d1b805fb9783.png)
 
+- Настроим VLAN 20 на коммутаторах, SVI и шлюз по-молчанию
+
+![image](https://user-images.githubusercontent.com/89464074/175998437-df0bd676-6afc-49ad-8143-ef5bc52a4cd6.png)
 
