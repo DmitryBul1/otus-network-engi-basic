@@ -18,3 +18,21 @@
 
 ![image](https://user-images.githubusercontent.com/89464074/175998437-df0bd676-6afc-49ad-8143-ef5bc52a4cd6.png)
 
+- Отправляем неиспользуемые порты в ParkingLot на обоих коммутаторах
+
+![image](https://user-images.githubusercontent.com/89464074/175999834-7edf4ebc-e08a-4d3a-85d7-50de5fca1beb.png)
+
+- Назначим используемые порты коммутаторов соответствующим VLANам
+
+![image](https://user-images.githubusercontent.com/89464074/176001262-224be494-36fe-4f05-9410-c153305ecf2a.png)
+
+![image](https://user-images.githubusercontent.com/89464074/176002120-77948680-53ad-4e4c-82d2-4b07cb0ae21b.png)
+
+### Настроим транки аналогично для обоих коммутаторов
+
+![image](https://user-images.githubusercontent.com/89464074/176004381-7de83d9c-1b77-45cb-bd72-8e05c5e041e6.png)
+
+
+
+
+
