@@ -46,6 +46,19 @@
 
 ![image](https://user-images.githubusercontent.com/89464074/176010010-97cc493f-4683-4aa2-b73e-d57da062a71d.png)
 
+### R2 доделать
+
+### Настройки удаленного доступа
+- Добавим пользователя на все сетевые устройства, подключим SSH
+
+![image](https://user-images.githubusercontent.com/89464074/176012458-eb6276f8-ef59-4eb3-85ea-f8e8a27720a3.png)
+
+![image](https://user-images.githubusercontent.com/89464074/176012992-64b600a6-8e9c-4bb6-a5df-2e365681e503.png)
+
+- Включим защищенные веб-службы с проверкой подлинности на R1
+
+
+
 
 
 
