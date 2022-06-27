@@ -8,4 +8,10 @@
 
 ### Базовые настройки для коммутаторов
 
+![image](https://user-images.githubusercontent.com/89464074/175993992-714d1889-4353-4006-8b78-f205e870f23d.png)
+
+### Создаем перечень VLAN на обоих коммутаторах по заданию
+
+![image](https://user-images.githubusercontent.com/89464074/175995196-8b246d40-1153-4c48-b897-d1b805fb9783.png)
+
 
