@@ -74,8 +74,9 @@
 ![image](https://user-images.githubusercontent.com/89464074/176100495-167f1a4d-0ed8-4f5e-ac21-0f7ffd7020e5.png)
 ![image](https://user-images.githubusercontent.com/89464074/176100603-09e8fad9-1d14-46fa-bc90-0d601c8c59a4.png)
 
+### Настройка и проверка списков контроля доступа (ACL)
 
-
+- 
 
 
 
