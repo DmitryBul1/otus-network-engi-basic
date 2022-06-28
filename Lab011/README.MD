@@ -58,7 +58,17 @@
 
 ![image](https://user-images.githubusercontent.com/89464074/176012992-64b600a6-8e9c-4bb6-a5df-2e365681e503.png)
 
-- Включим защищенные веб-службы с проверкой подлинности на R1
+- Защищенные веб-службы с проверкой подлинности на R1 включить не удалось, т.к Cisco PT 8 не принял команду ip http secure-service.
+
+- Далее настроим узлы в соответствии с таблицей и проведем эхо-запросы по заданию.
+
+![image](https://user-images.githubusercontent.com/89464074/176097354-5dad00a7-2228-4a69-852c-82c42f95c49c.png)
+
+![image](https://user-images.githubusercontent.com/89464074/176097512-b4aedaa5-362a-4970-9dd6-9b781bf03f78.png)
+
+
+
+
 
 
 
