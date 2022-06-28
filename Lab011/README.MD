@@ -66,7 +66,13 @@
 
 ![image](https://user-images.githubusercontent.com/89464074/176097512-b4aedaa5-362a-4970-9dd6-9b781bf03f78.png)
 
+- Подключение по SSH с PC-B на R1 
 
+![image](https://user-images.githubusercontent.com/89464074/176100260-21e658a4-0638-42bc-bc88-fcf7faa9b08c.png)
+![image](https://user-images.githubusercontent.com/89464074/176100391-b7817965-255c-4d1a-8842-e9badd6eb312.png)
+
+![image](https://user-images.githubusercontent.com/89464074/176100495-167f1a4d-0ed8-4f5e-ac21-0f7ffd7020e5.png)
+![image](https://user-images.githubusercontent.com/89464074/176100603-09e8fad9-1d14-46fa-bc90-0d601c8c59a4.png)
 
 
 
