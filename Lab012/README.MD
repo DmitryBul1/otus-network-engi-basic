@@ -42,10 +42,28 @@
 
 ![image](https://user-images.githubusercontent.com/89464074/176649512-e616660a-1631-4868-8f43-c4a0ebadae34.png)
 
-
-
-
-
-
+(примечание - по команде просмотра таблицы NAT результирующие сообщения частично отличались от представленных в методичке. Ошибся ли я в чем-то или это в результате отличий эмуляторов? Директива verbose для команды sh ip nat translations выдавала обшибку. работа выполнялась в CPT 8)
 
 ### Часть 3
+- Настроим PAT на R1
+
+![image](https://user-images.githubusercontent.com/89464074/176653299-e43642e2-d393-4882-b1de-c8d1870f0160.png)
+
+- Наблюдаем за работой PAT при помощи безостановочного пинга с узлов
+
+![image](https://user-images.githubusercontent.com/89464074/176654979-1c84557a-e9fa-469a-b2ae-3eb32c87f504.png)
+
+- Очистим трансляции и статистику
+
+![image](https://user-images.githubusercontent.com/89464074/176655898-a0f5bb79-7201-41ad-84f0-95c3ad55c520.png)
+
+(примечание - команду clear ip nat statistics выполнить не удалось)
+
+- 
+
+![image](https://user-images.githubusercontent.com/89464074/176656531-f46d9c57-083e-48a1-a408-68393d0373c7.png)
+
+
+
+
+
