@@ -31,7 +31,7 @@
 
 ![image](https://user-images.githubusercontent.com/89464074/176673231-f6c19559-d4d1-4159-9dbc-5bb0eeaaa14f.png)
 
-- Команда sh cdp neighbors позволяет посмотреть, какие интерфейсы работают с CDP
+- Команда sh cdp neighbors позволяет посмотреть, какие интерфейсы каких устройств работают с CDP
 
 ![image](https://user-images.githubusercontent.com/89464074/176674706-6b4933b1-7f7e-4e4e-b80a-913ea936faa4.png)
 ![image](https://user-images.githubusercontent.com/89464074/176674383-33e73062-85cc-45f3-a07c-9eff18be1237.png)
@@ -41,6 +41,24 @@
 
 ![image](https://user-images.githubusercontent.com/89464074/176673697-9754a7f1-2921-4e48-bdb9-2a2a8d6d20b4.png)
 
-- Отключим CDP глобально на всех устройствах командой 
+- Отключим CDP для всех интерфейсов на каждом устройстве командой no cdp run
+
+![image](https://user-images.githubusercontent.com/89464074/176675875-872bb952-6a80-4cf8-9592-7d3d735f502e.png)
+
+### Часть 3. Обнаружение сетевых ресурсов с помощью протокола LLDP
+
+- Командой lldp run включаем lldp на каждом устройстве
+(примечание - команда с S1 "show lldp entry S2", указанная в задании, завершилась с обшибкой)
+
+![image](https://user-images.githubusercontent.com/89464074/176678520-b7f30702-0b3e-4118-b4ee-fa8e113d825d.png)
+
+![image](https://user-images.githubusercontent.com/89464074/176678606-65ea70ed-44e9-4878-9d56-99a2f66e4228.png)
+
+### Часть 4. Настройка NTP
+
+
+
+
+
 
 
