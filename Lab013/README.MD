@@ -15,6 +15,6 @@
 
 # Часть 2. Обнаружение сетевых устройств
 
-- На R1 используем команду show cdp
+- На R1 используем команду show cdp, чтобы рассмотреть активные интерфейсы
 
-![image](https://user-images.githubusercontent.com/89464074/176671115-c899530c-0bce-4967-96b7-7344c31c9e56.png)
+![image](https://user-images.githubusercontent.com/89464074/176671803-2f6e69f5-71df-4100-b9a0-327e42be779d.png)
