@@ -42,7 +42,7 @@
 
 ![image](https://user-images.githubusercontent.com/89464074/176649512-e616660a-1631-4868-8f43-c4a0ebadae34.png)
 
-(примечание - по команде просмотра таблицы NAT результирующие сообщения частично отличались от представленных в методичке. Ошибся ли я в чем-то или это в результате отличий эмуляторов? Директива verbose для команды sh ip nat translations выдавала обшибку. работа выполнялась в CPT 8)
+(примечание - Директива verbose для команды sh ip nat translations выдавала обшибку. работа выполнялась в CPT 8)
 
 ### Часть 3
 - Настроим PAT на R1
@@ -59,7 +59,36 @@
 
 (примечание - команду clear ip nat statistics выполнить не удалось)
 
-- 
+- Далее по заданию удаляем команды преобразования
+
+![image](https://user-images.githubusercontent.com/89464074/176657427-4913842d-4422-450b-af5f-2a42de2ba729.png)
+
+- Добавляем команду PAT overload с указанием внешнего интерфейся R1
+
+![image](https://user-images.githubusercontent.com/89464074/176657947-d7bea8d1-2443-4797-92f9-f73a2e1be895.png)
+
+- Проверяем работу пингом с PC-B на loopback1 R2
+
+![image](https://user-images.githubusercontent.com/89464074/176658302-cc546942-32f1-4f10-b754-8476d6b6e8b0.png)
+
+- Тест с задействованием двух узлов с безостановочным пингом
+
+![image](https://user-images.githubusercontent.com/89464074/176658672-fa2b3e98-3618-4628-a038-c3f3bacb2067.png)
+
+### Часть 4. Настройка статического NAT
+
+- Очистим трансляции и настроим статическое сопоставление внутреннего и внешнего адресов:
+
+![image](https://user-images.githubusercontent.com/89464074/176659742-6769ac27-8cb0-4c0a-b155-035ade57146e.png)
+
+- Запустим проверку пингом с R2 на адрес 209.165.200.229
+
+![image](https://user-images.githubusercontent.com/89464074/176660021-7faa9308-6893-4447-bded-b2b204e6a88f.png)
+
+- Теперь рассмотрим таблицу NAT на R1 для подтверждения работы статического NAT
+
+![image](https://user-images.githubusercontent.com/89464074/176660307-df6e720d-9421-4621-81e4-55422f0f89e3.png)
+
 
 
 
