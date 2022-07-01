@@ -55,6 +55,30 @@
 ![image](https://user-images.githubusercontent.com/89464074/176678606-65ea70ed-44e9-4878-9d56-99a2f66e4228.png)
 
 # Часть 4. Настройка NTP
+- Настроим время на роутере R1 в формате UTC
+
+![image](https://user-images.githubusercontent.com/89464074/176824675-35d1215e-ec46-4305-a0a2-f4aa516001a4.png)
+
+- Активируем NTP на R1 с указанием уровня слоя master 4
+
+![image](https://user-images.githubusercontent.com/89464074/176826080-1675fa69-566c-4417-b0f0-776179f44222.png)
+![image](https://user-images.githubusercontent.com/89464074/176826861-7b778132-0f41-4d31-9d6b-38fa3b74129e.png)
+
+- Настроим клиентов NTP
+
+Часы коммутаторов не настроены
+
+![image](https://user-images.githubusercontent.com/89464074/176826380-356dc0b3-25b0-4b12-b208-c9418eb22ce0.png)
+
+- Укажем для клиентов источником времени интерфейс g0/0/1 роутера R1 и дождемся синхронизации
+
+![image](https://user-images.githubusercontent.com/89464074/176829218-900b7ece-a5aa-49c5-8e22-e39bf846a545.png)
+![image](https://user-images.githubusercontent.com/89464074/176829248-2d7997ed-bde8-41f2-a3b5-ccac5fdcf1a9.png)
+
+По прошествии некоторого времени, синхронизация времени с R1 завершилась успешно.
+
+
+
 
 
 
