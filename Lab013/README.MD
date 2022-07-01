@@ -72,7 +72,7 @@
 
 - Укажем для клиентов источником времени интерфейс g0/0/1 роутера R1 и дождемся синхронизации
 
-![image](https://user-images.githubusercontent.com/89464074/176829218-900b7ece-a5aa-49c5-8e22-e39bf846a545.png)
+![image](https://user-images.githubusercontent.com/89464074/176829450-ce5b63b9-4567-461b-bd4f-b5eab3d982d4.png)
 ![image](https://user-images.githubusercontent.com/89464074/176829248-2d7997ed-bde8-41f2-a3b5-ccac5fdcf1a9.png)
 
 По прошествии некоторого времени, синхронизация времени с R1 завершилась успешно.
